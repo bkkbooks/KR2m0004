@@ -10,13 +10,11 @@ markers:
 
       ', id: KR2m0004_krp_021-bkkkrnewl2}
   - {type: line-break, offset: 3, content: '', id: KR2m0004_WYG_021-1a02}
-  - {type: substitution, offset: 7, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4493}}
   - {type: 'kr:newline', offset: 24, content: '
 
       ', id: KR2m0004_krp_021-bkkkrnewl3}
   - {type: line-break, offset: 24, content: '', id: KR2m0004_WYG_021-1a03}
   - {type: punctuation, offset: 28, content: (, id: KR2m0004_krp_021-bkkpn1}
-  - {type: substitution, offset: 29, original: 註, replacement: 注, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0597}}
   - {type: punctuation, offset: 31, content: /, id: KR2m0004_krp_021-bkkpn2}
   - {type: punctuation, offset: 34, content: ), id: KR2m0004_krp_021-bkkpn3}
   - {type: 'kr:newline', offset: 48, content: '
@@ -39,8 +37,6 @@ markers:
 
       ', id: KR2m0004_krp_021-bkkkrnewl8}
   - {type: line-break, offset: 132, content: '', id: KR2m0004_WYG_021-1a08}
-  - {type: substitution, offset: 135, original: 聴, replacement: 聽, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4437}}
-  - {type: substitution, offset: 149, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0895}}
   - {type: 'kr:newline', offset: 153, content: '
 
       ', id: KR2m0004_krp_021-bkkkrnewl9}
@@ -87,4 +83,4 @@ markers:
 
       ', id: KR2m0004_krp_021-bkkkrnewl6}
   back: []
-hash: sha256:db1e8bc7fc8cbf4a9bea6668852f520c0de9aa9628b67bed286f948b0b311315
+hash: sha256:488e543d3221fe542bf7c43ff084ea21dcad7ba46bc94d3cbbd18d259e8a9d66
