@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR2m0004/krp/v1/juan/21
 seq: 21
-front:
-  text: 江陽譜李攸字好德政和初編輯西山圖經九域志等書瀘帥孫羲叟招原注下有闕文書上轉一官張公浚入朝約與俱以家事辭手編皇朝事實起建隆迄宣和凡六十卷其三十卷先聞于時有旨制司上太常少卿何麒言請命以宫觀居家終其書後以餘三十卷上之緘封副本并贄啓秦相檜啓云方今雖為中興其實創業作事成于果斷亦貴聽言思始議之艱危尚軫鈞懷之惴栗已窒申棖之欲方和傅説之羮宜俊乂旁招于庶位之中無顔色拒人于千里之外更願無忘在莒居寵思危秦怒寢其書不報今藏于家
-  hash: sha256:51353486220edd240228de9cbb93fc0ccdc58731c8f13e654e75c3a2f2e2e5c2
+body:
+  text: 江陽譜李攸字好德政和初編輯西山圖經九域志等書瀘帥孫羲叟招原注下有闕文書上轉一官張公浚入朝約與俱以家事辭手編皇朝事實起建隆迄宣和凡六十卷其三十卷先聞于時有旨制司上太常少卿何麒言請命以宫觀居家終其書後以餘三十卷上之緘封副本并贄啓秦相檜啓云方今雖為中興其實創業作事成于果斷亦貴聽言思始議之艱危尚軫鈞懷之惴栗已窒申棖之欲方和傅説之羮宜俊乂旁招于庶位之中無顔色拒人于千里之外更願無忘在莒居寵思危秦怒寢其書不報今藏于家宋朝事實卷末
+  hash: sha256:614b1c4ebb764c1a6296cbee967db42bea83cb791b1180ecd7a93cd0abd631a4
   markers:
   - {type: page-break, offset: 0, content: '', id: KR2m0004_WYG_021-1a, image: WYG0608/WYG0608-0238a.png}
-body:
-  text: 宋朝事實卷末
-  hash: sha256:265228a01024e639b33c6b65c3e917d12a836aaf887090a65a0a804d9d922a50
 metadata:
   title: 宋朝事實
   edition:
@@ -18,4 +15,4 @@ metadata:
   source:
     repository: kanripo
     path: KR2m0004/KR2m0004_021.txt
-hash: sha256:9d1390b84e754d0f210f3c39d67c47934f6e7a37133eb56bac3109b311e86eda
+hash: sha256:a9c50af8ca48f270f9a2f0c5b2b2c13007e4ad4f653aa096fc6098082c162193
